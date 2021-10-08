@@ -1,0 +1,46 @@
+
+
+header{
+  text-align: center;
+  font-family: 'Roboto Slab', serif;  font-size: 60px;
+  color: black;
+}
+
+a{
+  text-align: left;
+  text-decoration: none !important;
+
+}
+h2{
+  text-align: center;
+  font-size: 10px;
+  font-weight: bolder;
+}
+
+h3.left{
+  text-align: left;
+  font-size: 25px;
+}
+
+
+h3.right{
+  text-align: right;
+  font-size: 25px;
+
+
+}
+
+li{
+  font-size: 25px;
+}
+
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+p{
+  font-size: 20px;
+}
